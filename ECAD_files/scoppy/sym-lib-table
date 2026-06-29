@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Altium_WR-BHD (rev25a)")(type "Altium")(uri "${KIPRJMOD}/LIB/Altium_WR-BHD (rev25a).IntLib")(options "")(descr ""))
+  (lib (name "Altium_WR-BNC (rev25a)")(type "Altium")(uri "${KIPRJMOD}/LIB/Altium_WR-BNC (rev25a).IntLib")(options "")(descr ""))
+  (lib (name "Altium_WR-USB (rev26a)")(type "Altium")(uri "${KIPRJMOD}/LIB/Altium_WR-USB (rev26a).IntLib")(options "")(descr ""))
+  (lib (name "WE-CBF (rev25b)")(type "Altium")(uri "${KIPRJMOD}/LIB/WE-CBF (rev25b).IntLib")(options "")(descr ""))
+  (lib (name "WE-CNSW (rev25a)")(type "Altium")(uri "${KIPRJMOD}/LIB/WE-CNSW (rev25a).IntLib")(options "")(descr ""))
+  (lib (name "Altium_WS-TASU (rev22a)")(type "Altium")(uri "${KIPRJMOD}/LIB/Altium_WS-TASU (rev22a).IntLib")(options "")(descr ""))
+  (lib (name "WL-SMSW (rev22b)")(type "Altium")(uri "${KIPRJMOD}/LIB/WL-SMSW (rev22b).IntLib")(options "")(descr ""))
+  (lib (name "Altium_WE-TVS (rev26a)")(type "Altium")(uri "${KIPRJMOD}/LIB/Altium_WE-TVS (rev26a).IntLib")(options "")(descr ""))
+  (lib (name "WE-VE (rev22a)")(type "Altium")(uri "${KIPRJMOD}/LIB/WE-VE (rev22a).IntLib")(options "")(descr ""))
+)

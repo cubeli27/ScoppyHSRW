@@ -1,0 +1,16 @@
+CERN Open Hardware Licence Version 2 - Permissive
+
+Copyright (c) 2026 cubeli27
+
+This repository contains open hardware design files and documentation for a PCB implementation compatible with the Scoppy Raspberry Pi Pico oscilloscope system.
+
+This hardware design is licensed under the CERN-OHL-P v2 (Permissive) or any later version.
+
+You may use, modify, distribute, and manufacture this design, including for commercial purposes, provided that you comply with the terms of the CERN-OHL-P v2 license.
+
+The full text of the CERN-OHL-P v2 license can be found at:
+https://cern-ohl.web.cern.ch/
+
+This license applies only to the hardware design files and documentation in this repository.
+
+Third-party software, including the Scoppy firmware developed by fhdm-dev, is not included in this repository and remains subject to its own licensing terms.

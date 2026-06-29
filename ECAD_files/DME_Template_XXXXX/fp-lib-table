@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DME_Template")(type "KiCad")(uri "${KIPRJMOD}/DME_Template_XXXXX/LIB/footprints/DME_Template.pretty")(options "")(descr ""))
+)
