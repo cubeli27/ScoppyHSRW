@@ -8,7 +8,7 @@ The hardware platform enables students to study and manufacture a complete measu
 <!-- To-do: Add more photos to the list -->
 <p align="center"> 
   <img src="Images/3DViewer.png" alt="PCBA" width="45%"/> 
-  <img src="Images/case.jpeg" alt="PCBA" width="45%"/> 
+  <img src="Images/case.JPEG" alt="PCBA" width="45%"/> 
 </p> 
 
 Key Features
@@ -25,7 +25,6 @@ Key Features
 | **CAD_files** | Case drawings and pcb | .pdf and .step |
 | **ECAD_files** | Contains PCB files | Original design and student template  |
 | **Images** | Report relevant snippets | Images |
-| **Source_Code** | Firmware from the original project | .uf2 |
 
 ---
 
