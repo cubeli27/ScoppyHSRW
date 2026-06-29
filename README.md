@@ -7,8 +7,8 @@ The hardware platform enables students to study and manufacture a complete measu
 
 <!-- To-do: Add more photos to the list -->
 <p align="center"> 
-  <img src="Images/3DViewer.png" alt="PCBA" width="45%"/> 
-  <img src="Images/case.JPEG" alt="PCBA" width="45%"/> 
+  <img src="Images/3D Viewer" alt="PCBA" width="45%"/> 
+  <img src="Images/case.jpeg" alt="PCBA" width="45%"/> 
 </p> 
 
 Key Features
