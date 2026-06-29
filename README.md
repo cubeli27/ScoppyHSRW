@@ -41,7 +41,7 @@ Images of Scoppy in action.
 
 Original project can be found at:
 [Github](https://github.com/fhdm-dev/scoppy)
-[EasyEDA](https://easyeda.com/editor#id=5d5f637d6a8448b59f484372ed679191|7d1d63aa4eb740938d0ed4895d41cec6)
+[EasyEDA](https://easyeda.com/editor#id=5d5f637d6a8448b59f484372ed679191)
 [Website](https://oscilloscope.fhdm.xyz/)
 
 
