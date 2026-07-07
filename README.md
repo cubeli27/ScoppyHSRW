@@ -44,6 +44,10 @@ Original project can be found at:
 [EasyEDA](https://easyeda.com/editor#id=5d5f637d6a8448b59f484372ed679191)
 [Website](https://oscilloscope.fhdm.xyz/)
 
+---
+## Getting Started
+
+From the [Scoppy Firmware downloads](https://oscilloscope.fhdm.xyz/wiki/firmware-versions) download and flash the **scoppy-pico-v18.uf2** .
 
 ---
 ## Acknowledgements
