@@ -25,6 +25,8 @@ Key Features
 | **CAD_files** | Case drawings and pcb | .pdf and .step |
 | **ECAD_files** | Contains PCB files | Original design and student template  |
 | **Images** | Report relevant snippets | Images |
+| **Waveforms** | Waveforms Testing Workspace | .dwf3work |
+
 
 ---
 
@@ -48,6 +50,10 @@ Original project can be found at:<br>
 ## Getting Started
 
 From the [Scoppy Firmware downloads](https://oscilloscope.fhdm.xyz/wiki/firmware-versions) download and flash the **scoppy-pico-v18.uf2** .
+
+---
+## Future Work 
+C17 capacitor can be omited or not populated. It is the boot push-button debounce capacitor and in some layouts prevents proper booting persumably because the **RUN** pin is left floating so the code starts running while the capacitor is still charging and before **BOOT** pin reaches logic high. 
 
 ---
 ## Acknowledgements
