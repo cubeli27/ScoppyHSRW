@@ -40,9 +40,9 @@ Images of Scoppy in action.
 ## Firmware
 
 Original project can be found at:
--[Github](https://github.com/fhdm-dev/scoppy)
--[EasyEDA](https://easyeda.com/editor#id=5d5f637d6a8448b59f484372ed679191)
--[Website](https://oscilloscope.fhdm.xyz/)  
+[Github](https://github.com/fhdm-dev/scoppy)<br>
+[EasyEDA](https://easyeda.com/editor#id=5d5f637d6a8448b59f484372ed679191)<br>
+[Website](https://oscilloscope.fhdm.xyz/)  
  
 ---
 ## Getting Started
